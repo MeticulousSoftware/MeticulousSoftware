@@ -1,6 +1,6 @@
 ### Hello everyone,
 
-This document will serve as a guide to my repositories and will be update regularly.
+This document will serve as a guide to my repositories and will be updated regularly.
 
 I'm a french computer engineer, with a very wide range of interests related to computer sciences and maths.
 I'm working on a couple of projects which ought to be used together to ease software development.
